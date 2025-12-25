@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Wonderful Christmastime",
+  "base_artist": "Paul McCartney",
+  "createdAt": "2025-12-25T11:35:18.564580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime (with MIKA)",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/01_Wonderful_Christmastime_(with_MIKA)_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime",
+      "artist": "Kylie with MIKA",
+      "has_synced": true,
+      "path": "select/02_Wonderful_Christmastime_Kylie_with_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime",
+      "artist": "Irene Grandi",
+      "has_synced": true,
+      "path": "select/03_Wonderful_Christmastime_Irene_Grandi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/04_Wonderful_Christmastime_-_Edited_Version___Remastered_2011_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime (Edited Version / Remastered 2011)",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/05_Wonderful_Christmastime_(Edited_Version___Remastered_2011)_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/06_Wonderful_Christmastime_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/07_Wonderful_Christmastime_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime (Edited Version)",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/08_Wonderful_Christmastime_(Edited_Version)_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime [Edited Version]",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/09_Wonderful_Christmastime_[Edited_Version]_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime",
+      "artist": "Wings",
+      "has_synced": false,
+      "path": "select/10_Wonderful_Christmastime_Wings.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/11_Wonderful_Christmastime_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime (Edited Version \u0000 Remastered 2011)",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/12_Wonderful_Christmastime_(Edited_Version_\u0000_Remastered_2011)_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime",
+      "artist": "The Monkees",
+      "has_synced": false,
+      "path": "select/13_Wonderful_Christmastime_The_Monkees.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime",
+      "artist": "Gary Barlow",
+      "has_synced": true,
+      "path": "select/14_Wonderful_Christmastime_Gary_Barlow.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime",
+      "artist": "Hilary Duff",
+      "has_synced": true,
+      "path": "select/15_Wonderful_Christmastime_Hilary_Duff.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wonderful Christmastime - Full Length Version / Remastered 2011",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/16_Wonderful_Christmastime_-_Full_Length_Version___Remastered_2011_Paul_McCartney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wonderful Christmastime",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/pl_01_Wonderful_Christmastime_Paul_McCartney.txt"
+    }
+  ]
+}
